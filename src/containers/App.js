@@ -9,8 +9,6 @@ const App = props => (
     <br />
     <Link to="/2">Messy Component 2</Link>
     <br />
-    <Link to="/3">Messy Component 3</Link>
-    <br />
 
     {props.children}
   </div>
